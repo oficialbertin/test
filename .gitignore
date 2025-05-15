@@ -1,0 +1,51 @@
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Environment files
+.env
+config.php
+*.log
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip 
