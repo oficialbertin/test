@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Umuganda Connect USSD System
 
 A USSD-based system for managing Umuganda community service events in Rwanda.
@@ -97,3 +98,6 @@ For technical support or questions, please contact:
 - Phone: +250781065112 / +250790237325
 
 
+=======
+# test
+>>>>>>> 95e56cc81425c3ccd979522fc10aa95807f4c4e9
